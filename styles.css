@@ -2,12 +2,15 @@
 text-align: center;
 }
 #logo {
-	float: left;
-	width: 156px;
-	height: 156px;
+
+width: 500px;
+length:1500px;
+margin: auto;
+display: block;
 }
 p {
 	font-size: 18px;
+	font-family: Roboto Slab;
 }
 h1 {
 	font-size: 35px;
