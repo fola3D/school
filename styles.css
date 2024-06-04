@@ -1,32 +1,66 @@
 #start {
-text-align: center;
+    text-align: center;
 }
+
 #logo {
-width: 500px;
-length:1500px;
-margin: auto;
-display: block;
+    width: 500px;
+    margin: auto;
+    display: block;
 }
+
 p {
-	font-size: 18px;
-	font-family: Roboto Slab;
+    font-size: 18px;
+    font-family: Roboto Slab;
 }
+
 h1 {
-	font-size: 35px;
-	font-family: Unbounded;
+    font-size: 35px;
+    font-family: Unbounded;
 }
+
 #footer {
-	background-color: #4C4E52;
-	display: block;
-	color: white;
+    background-color: #4C4E52;
+    display: block;
+    color: white;
 }
+
 #lock-in {
-	text-align:center;
+    text-align: center;
 }
+
 h2 {
- text-align: center;
+    text-align: center;
 }
+
 .side {
-	float: right;
-	display: block;
+    float: right;
+    display: block;
+}
+
+h3 {
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
 }
